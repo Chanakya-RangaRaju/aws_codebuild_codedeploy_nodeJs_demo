@@ -5,7 +5,7 @@ const config = require('config')
 console.log(config);
 
 app.get('/', (req, res) => {
-  res.send('CICD App V9!')
+  res.send('CICD App V11!')
 })
 
 app.get('/status', (req, res) => {
@@ -17,4 +17,4 @@ app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
 
-#I love Kushi
+#I love Kushi Nagella
