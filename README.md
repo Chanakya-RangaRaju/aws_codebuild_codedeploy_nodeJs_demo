@@ -15,7 +15,7 @@ In codebuild.yml file in post build phase, line:
 
 You can enavironment variable in code build : CODE_DEPLOY_APPLICATION_NAME, CODE_DEPLOY_S3_BUCKET and the value will reflect in the command. 
 
-Check Previous Videos to make sense of this implementation:
+Check Previous Videos os Sandip Das to make sense of this implementation:
 
 
 
